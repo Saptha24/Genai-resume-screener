@@ -1,0 +1,16 @@
+# python
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# env/keys
+.env
+*.key
+*.pem
+*.p12
+*.json
+
+# data
+data/sample_resumes/*
+!data/sample_resumes/.gitkeep
